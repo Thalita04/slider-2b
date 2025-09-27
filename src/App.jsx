@@ -46,14 +46,14 @@ function App() {
         </header>
         <section className="produtos">
 
-                   {/* Produto 1 */}
+          {/* Produto 1 */}
           <a href="#" className="link-card">
             <div className="card">
               <img src={Cjoa} alt="" className="img-card" />
               <h2 className="titulo-card">Chinelo Nike Victori One Feminino</h2>
               <p className="desc">Da praia à jardinagem ou relaxando no sofá, o Nike Victori One aperfeiçoa um design clássico.</p>
               <p className="preco">R$ 249,99</p>
-              <div className="avaliacao"> <span>★ ★ ★ ★ ★</span> (72)</div>
+              <div className="avaliacao"> <span>★ ★ ★ ☆ ☆</span> (2985)</div>
               <div className="off">-15%</div>
             </div>
           </a>
@@ -64,8 +64,8 @@ function App() {
               <img src={Carmy} alt="" className="img-card" />
               <h2 className="titulo-card">Women Nike Dunk Low Susan Fang</h2>
               <p className="desc">O Dunk Low combina seu color block icônico com mistura de materiais e acolchoamento macio para um conforto revolucionário.</p>
-              <p className="preco">R$ R$ 1199,99</p>
-              <div className="avaliacao"> <span>★ ★ ★ ★ ☆</span> (15)</div>
+              <p className="preco">R$ 1199,99</p>
+              <div className="avaliacao"> <span>★ ★ ★ ★ ★</span> (100)</div>
               <div className="off">-5%</div>
             </div>
           </a>
@@ -74,10 +74,10 @@ function App() {
           <a href="#" className="link-card">
             <div className="card">
               <img src={Curs} alt="" className="img-card" />
-              <h2 className="titulo-card">Air Jordan 1 Low GS-Peanut Butter & Jelly</h2>
+              <h2 className="titulo-card">Air Jordan 1 Low GS-Peanut Butter Jelly</h2>
               <p className="desc">Adicione um toque de gosma ao seu look com estes Jordans inspirados em gelatina.</p>
               <p className="preco">R$ 999,99</p>
-              <div className="avaliacao"> <span>★ ★ ★ ★ ★</span> (302)</div>
+              <div className="avaliacao"> <span>★ ★ ★ ★ ★</span> (1359)</div>
               <div className="off">-10%</div>
             </div>
           </a>
